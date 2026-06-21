@@ -34,12 +34,14 @@ A responsive and interactive Form Validation project built using HTML, CSS, and 
 * DOM Manipulation
 * Regular Expressions (Regex)
 
+
 ## Validation Rules
 
 ### Username
 
 * Must start with a capital letter.
 * Only alphabetic characters are allowed.
+* same password must
 
 ### Contact Number
 
